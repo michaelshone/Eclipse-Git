@@ -1,3 +1,5 @@
-import HelloWorld
-mik=HelloWorld()
+
+print("This is mik")
+
+print("This is mik")
 print("This is mik")
